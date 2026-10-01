@@ -1,0 +1,154 @@
+Feature,Mean_Absolute_SHAP
+num__T1d,592.1231718825348
+num__Wandering Ratio,487.6896832103302
+num__Maximal Flow Length,454.47680979213106
+num__Catchment Perimeter,280.5083663937347
+num__T10d,239.05275345057586
+num__SecondThird Bifurcation Ratio,228.3078132084716
+num__Latitude,210.6083040194095
+num__Drainage Texture,200.51416810561204
+num__T2d,189.08930133218544
+num__T9d,177.68539843378682
+num__Max Temperature of Warmest Month,121.92930717163956
+num__FirstSecond Bifurcation Ratio,121.856002054526
+cat__Land cover_No dominant class,117.61829601242339
+num__Event_Start_Year,108.69724750760972
+num__Precipitation Seasonality,105.02967712559624
+num__Precipitation of Driest Month,97.02672425906839
+num__Thirdorder Streams Mean Length,91.18567136492224
+num__Fifthorder Streams Length,88.49426027617189
+cat__Basin_Krishna,86.0246458003562
+num__Ruggedness Number,72.20364600545126
+num__Compactness Coefficient,70.60388638457475
+num__Drainage Density,65.31526662270923
+num__Event_Start_DayOfYear,65.23629376008637
+num__T6d,63.09056169479669
+num__T5d,58.06107005527794
+num__Annual Mean Temperature,54.718852019638696
+num__Fitness Ratio,52.850610198745095
+num__Catchment Relief,51.19656532994123
+num__Precipitation of Driest Quarter,50.78968449839816
+num__Circularity Ratio,50.329350285321425
+num__Event_Start_Month,46.37832046455473
+num__Area variation (%),46.185057147605875
+num__Population Density,44.301875993511764
+num__Relief Ratio,43.231461516283495
+num__Channel Frequency,40.32331417255293
+cat__lithology type_Basic volcanic rocks,29.579325092578486
+num__Fourthorder Streams Mean Length,25.628298342525934
+num__Isothermality,24.247671027133567
+num__Precipitation of Warmest Quarter,23.910110180461427
+num__Population Count,23.8551037067162
+num__FourthFifth Stream Length Ratio,23.599864348388216
+num__Infiltration Number,23.560903812280422
+num__Catchment Length,23.346258172743354
+num__Downvalley Length,23.078327842159183
+num__T7d,22.753035137860834
+num__Precipitation of Coldest Quarter,22.74054617651258
+num__Lemniscates Value,20.559687320362737
+num__Fourthorder Streams Length,20.159630975888824
+cat__Basin_Narmada,19.71365135436554
+num__Road Density,19.310773885962902
+num__Precipitation of Wettest Month,17.488653716685562
+num__Min Temperature of Coldest Month,16.75966341226217
+num__Temperature Seasonality,15.534378353074644
+num__2000_GDP_PPP,15.355704487690476
+num__Night Light,12.532314746859292
+num__T4d,12.339444921026521
+num__T8d,12.009814277342912
+num__No. of Fourthorder Streams,11.844276226746725
+num__Mean Temperature of Wettest Quarter,11.531753946273431
+num__Firstorder Streams Length,10.118522388426976
+num__No. of Secondorder Streams,9.848985495021374
+num__2000_HDI,9.515949387574127
+num__Drainage Area,9.163824523465154
+num__No. of Firstorder Streams,8.71237114827658
+cat__Basin_Godavari,8.48667265636749
+num__Fifthorder Streams Mean Length,8.355065102918099
+num__T3d,7.974133237437969
+num__Urban percentage,7.5207429396237355
+num__2015_GDP_PC_PPP,7.150645474434528
+num__Temperature Annual Range,6.876494526337467
+num__1990_GDP_PC_PPP,6.325032083553975
+num__No. of Thirdorder Streams,6.109805133014348
+num__ThirdForth Bifurcation Ratio,4.635663754717137
+num__Thirdorder Streams Length,4.394189519894315
+num__2005_HDI,4.270662297238545
+num__2005_GDP_PC_PPP,4.263598973952732
+num__2010_GDP_PC_PPP,4.250861499036442
+num__1995_GDP_PC_PPP,4.077455376034483
+num__Elongation Ratio,3.887457995446321
+num__2015_HDI,3.7352172855805716
+num__FourthFifth Bifurcation Ratio,3.251030422992508
+num__Annual Precipitation,3.048022223344372
+num__No. of Fifthorder Streams,2.9999488832920322
+num__2010_HDI,2.88369553430222
+num__Source Catchment Area,2.846806172451254
+num__Mean Temperature of Coldest Quarter,2.776295725836903
+num__Basin Magnitude,2.311883801240785
+num__Sinuosity Index,2.1449277024684865
+num__FirstSecond Stream Length Ratio,2.0927098085616085
+num__Mean Diurnal Range,1.4761046888805647
+num__Precipitation of Wettest Quarter,1.3493120438358337
+num__Drainage Intensity,1.2701039742431992
+num__Catchment Area,1.1363064859164398
+cat__KoppenGeiger Climate Type_No dominant class,0.9455289459925926
+num__Longitude,0.9317636302930256
+num__Secondorder Streams Length,0.7576506960131622
+num__2010_GDP_PPP,0.5068169166662561
+num__SecondThird Stream Length Ratio,0.29905559556976563
+cat__lithology type_Metamorphics,0.17690168189825645
+num__Stream Order,0.07154682868284169
+num__Firstorder Streams  Mean  Length,0.028670206240208003
+cat__Event_Season_Monsoon,0.014035535099056412
+num__Form Factor,0.0
+num__Secondorder Streams  Mean Length,0.0
+num__ThirdForth Stream Length Ratio,0.0
+num__2000_GDP_PC_PPP,0.0
+num__2005_GDP_PPP,0.0
+num__1995_GDP_PPP,0.0
+num__1990_GDP_PPP,0.0
+num__2015_GDP_PPP,0.0
+num__Mean Temperature of Warmest Quarter,0.0
+num__Mean Temperature of Driest Quarter,0.0
+num__1990_HDI,0.0
+cat__Land cover_Mosaic vegetation,0.0
+cat__Soil type_Acrisols,0.0
+num__1995_HDI,0.0
+cat__KoppenGeiger Climate Type_Arid,0.0
+cat__KoppenGeiger Climate Type_Tropical,0.0
+cat__Land cover_Cropland,0.0
+cat__Land cover_Forest,0.0
+cat__KoppenGeiger Climate Type_Temperate,0.0
+cat__Soil type_Vertisols,0.0
+cat__Soil type_No dominant class,0.0
+cat__Soil type_Luvisols,0.0
+cat__Soil type_Lixisols,0.0
+cat__Soil type_Leptosols,0.0
+cat__Soil type_Cambisols,0.0
+cat__lithology type_Acid plutonic rocks,0.0
+cat__lithology type_Unconsolidated sediments,0.0
+cat__Basin_East flowing rivers between Mahanadi and Pennar,0.0
+cat__Basin_Cauvery,0.0
+cat__Basin_ Brahmni - Baitarni,0.0
+cat__Basin_East flowing rivers between Pennar Kanyakumari,0.0
+cat__Basin_Subarnarekha,0.0
+cat__Basin_Subernarekha,0.0
+cat__Basin_Tapi,0.0
+cat__lithology type_No dominant class,0.0
+cat__Basin_West Flowing Rivers From Tadri to Kanyakumari,0.0
+cat__Basin_West flowing rivers from  Tapi to Tadri,0.0
+cat__Basin_West flowing rivers from Tapi of Tadri,0.0
+cat__Basin_West flowing rivers from Tadri to Kanyakumari,0.0
+cat__State_Gujarat,0.0
+cat__State_Karnataka,0.0
+cat__State_Kerala,0.0
+cat__State_Andhra Pradesh,0.0
+cat__State_Madhya Pradesh,0.0
+cat__State_Maharashtra,0.0
+cat__State_Tamil Nadu,0.0
+cat__State_Odisha,0.0
+cat__State_Telangana,0.0
+cat__Event_Season_Post-Monsoon,0.0
+cat__Event_Season_Pre-Monsoon,0.0
+cat__Event_Season_Winter,0.0

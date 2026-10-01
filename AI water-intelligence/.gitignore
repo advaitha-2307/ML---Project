@@ -1,0 +1,25 @@
+﻿# Large random forest model artifacts (too large for GitHub - use Gradient Boosting models for deployment)
+models/regression_controlled/*_random_forest.joblib
+models/regression/**/random_forest.joblib
+models/classification/random_forest.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Scratch
+scratch/
+
+# IDE
+.idea/

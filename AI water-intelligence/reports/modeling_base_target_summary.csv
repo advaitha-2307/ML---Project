@@ -1,0 +1,5 @@
+Target,Rows,Missing,Missing_Percentage,Unique_Values
+Flood Type,4548,0,0.0,2
+Peak Flood Level (m),4548,0,0.0,3170
+Peak Discharge Q (cumec),4548,555,12.2,3655
+Flood Volume (cumec),4548,577,12.69,3830

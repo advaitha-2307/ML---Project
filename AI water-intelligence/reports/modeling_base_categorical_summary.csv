@@ -1,0 +1,11 @@
+Column,Unique_Values,Missing
+GaugeID,155,0
+Flood Type,2,0
+KoppenGeiger Climate Type,4,0
+Land cover,4,0
+Soil type,8,0
+lithology type,6,0
+Basin,22,5
+State,15,0
+Reliability,2,0
+Event_Season,4,0

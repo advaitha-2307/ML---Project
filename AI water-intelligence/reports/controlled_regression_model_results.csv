@@ -1,0 +1,13 @@
+Target,Target_Key,Model,MAE,RMSE,R2
+Peak Flood Level (m),peak_flood_level,Linear Regression,186.9114571247601,245.94192068452762,-0.8190159183382064
+Peak Flood Level (m),peak_flood_level,Decision Tree,65.36030710659898,108.3042691262424,0.6472536482299762
+Peak Flood Level (m),peak_flood_level,Random Forest,86.97901718274105,113.54237124678099,0.6123075900041335
+Peak Flood Level (m),peak_flood_level,Gradient Boosting,31.10062093801595,61.90077761549562,0.8847705235853183
+Peak Discharge Q (cumec),peak_discharge,Linear Regression,7570.575671879862,9135.148161768908,-6.584400791917184
+Peak Discharge Q (cumec),peak_discharge,Decision Tree,2319.881289274106,3882.2289012233873,-0.3697848565331818
+Peak Discharge Q (cumec),peak_discharge,Random Forest,1906.2821494251837,3271.9726058820643,0.02700770363126037
+Peak Discharge Q (cumec),peak_discharge,Gradient Boosting,1413.5492820385525,2531.336548461053,0.4176422448455578
+Flood Volume (cumec),flood_volume,Linear Regression,29378.217280529407,39709.72646652856,-12.704297545970627
+Flood Volume (cumec),flood_volume,Decision Tree,4809.911769815419,10755.688485723733,-0.005401246021826234
+Flood Volume (cumec),flood_volume,Random Forest,5355.249643773373,10075.621008360928,0.11771959287752687
+Flood Volume (cumec),flood_volume,Gradient Boosting,5299.0133268940235,9096.710047182498,0.28082978503348976

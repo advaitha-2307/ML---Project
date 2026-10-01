@@ -1,0 +1,119 @@
+Feature,Category,Data_Type,Unique_Values,Train_Missing_%,Test_Missing_%
+T1d,OTHER,float64,3675,0.0,0.0
+T2d,OTHER,float64,3682,0.0,0.0
+T3d,OTHER,float64,3687,0.0,0.0
+T4d,OTHER,float64,3689,0.0,0.0
+T5d,OTHER,float64,3691,0.0,0.0
+T6d,OTHER,float64,3695,0.0,0.0
+T7d,OTHER,float64,3696,0.0,0.0
+T8d,OTHER,float64,3696,0.0,0.0
+T9d,OTHER,float64,3696,0.0,0.0
+T10d,OTHER,float64,3697,0.0,0.0
+Stream Order,CATCHMENT / PHYSICAL,int64,7,0.0,0.0
+Maximal Flow Length,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Downvalley Length,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Drainage Area,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Catchment Relief,CATCHMENT / PHYSICAL,int64,120,0.0,0.0
+Catchment Length,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Catchment Perimeter,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Sinuosity Index,OTHER,float64,122,0.0,0.0
+Form Factor,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Relief Ratio,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Elongation Ratio,CATCHMENT / PHYSICAL,float64,118,0.0,0.0
+Circularity Ratio,OTHER,float64,122,0.0,0.0
+Lemniscates Value,OTHER,float64,122,0.0,0.0
+Drainage Texture,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Drainage Density,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Compactness Coefficient,OTHER,float64,122,0.0,0.0
+Wandering Ratio,OTHER,float64,122,0.0,0.0
+Fitness Ratio,OTHER,float64,122,0.0,0.0
+Basin Magnitude,METADATA,int64,86,0.0,0.0
+Channel Frequency,CATCHMENT / PHYSICAL,float64,66,0.0,0.0
+Drainage Intensity,CATCHMENT / PHYSICAL,float64,121,0.0,0.0
+Infiltration Number,OTHER,float64,81,0.0,0.0
+Ruggedness Number,OTHER,float64,122,0.0,0.0
+No. of Firstorder Streams,CATCHMENT / PHYSICAL,int64,86,0.0,0.0
+No. of Secondorder Streams,CATCHMENT / PHYSICAL,float64,58,0.72,0.0
+No. of Thirdorder Streams,CATCHMENT / PHYSICAL,float64,32,6.46,1.14
+No. of Fourthorder Streams,CATCHMENT / PHYSICAL,float64,17,28.01,29.7
+No. of Fifthorder Streams,CATCHMENT / PHYSICAL,float64,8,60.77,41.37
+Firstorder Streams Length,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Secondorder Streams Length,CATCHMENT / PHYSICAL,float64,115,0.74,0.0
+Thirdorder Streams Length,CATCHMENT / PHYSICAL,float64,102,6.46,1.14
+Fourthorder Streams Length,CATCHMENT / PHYSICAL,float64,63,28.01,29.7
+Fifthorder Streams Length,CATCHMENT / PHYSICAL,float64,38,61.33,41.37
+Firstorder Streams  Mean  Length,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Secondorder Streams  Mean Length,CATCHMENT / PHYSICAL,float64,115,0.74,0.0
+Thirdorder Streams Mean Length,CATCHMENT / PHYSICAL,float64,102,6.46,1.14
+Fourthorder Streams Mean Length,CATCHMENT / PHYSICAL,float64,63,28.01,29.7
+Fifthorder Streams Mean Length,CATCHMENT / PHYSICAL,float64,38,61.33,41.37
+FirstSecond Stream Length Ratio,CATCHMENT / PHYSICAL,float64,117,0.74,0.0
+SecondThird Stream Length Ratio,CATCHMENT / PHYSICAL,float64,102,6.46,1.14
+ThirdForth Stream Length Ratio,CATCHMENT / PHYSICAL,float64,69,28.01,29.7
+FourthFifth Stream Length Ratio,CATCHMENT / PHYSICAL,float64,40,61.33,41.37
+FirstSecond Bifurcation Ratio,CATCHMENT / PHYSICAL,float64,84,0.72,0.0
+SecondThird Bifurcation Ratio,CATCHMENT / PHYSICAL,float64,55,6.46,1.14
+ThirdForth Bifurcation Ratio,CATCHMENT / PHYSICAL,float64,30,28.01,29.7
+FourthFifth Bifurcation Ratio,CATCHMENT / PHYSICAL,float64,14,60.77,41.37
+Annual Mean Temperature,OTHER,float64,122,0.0,0.0
+Mean Diurnal Range,OTHER,float64,122,0.0,0.0
+Isothermality,OTHER,float64,122,0.0,0.0
+Temperature Seasonality,TEMPORAL FEATURE,float64,122,0.0,0.0
+Max Temperature of Warmest Month,TEMPORAL FEATURE,float64,122,0.0,0.0
+Min Temperature of Coldest Month,TEMPORAL FEATURE,float64,122,0.0,0.0
+Temperature Annual Range,OTHER,float64,122,0.0,0.0
+Mean Temperature of Wettest Quarter,OTHER,float64,122,0.0,0.0
+Mean Temperature of Driest Quarter,OTHER,float64,122,0.0,0.0
+Mean Temperature of Warmest Quarter,OTHER,float64,122,0.0,0.0
+Mean Temperature of Coldest Quarter,OTHER,float64,122,0.0,0.0
+Annual Precipitation,OTHER,float64,122,0.0,0.0
+Precipitation of Wettest Month,TEMPORAL FEATURE,float64,122,0.0,0.0
+Precipitation of Driest Month,TEMPORAL FEATURE,float64,119,0.0,0.0
+Precipitation Seasonality,TEMPORAL FEATURE,float64,122,0.0,0.0
+Precipitation of Wettest Quarter,OTHER,float64,122,0.0,0.0
+Precipitation of Driest Quarter,OTHER,float64,122,0.0,0.0
+Precipitation of Warmest Quarter,OTHER,float64,122,0.0,0.0
+Precipitation of Coldest Quarter,OTHER,float64,122,0.0,0.0
+KoppenGeiger Climate Type,CATCHMENT / PHYSICAL,str,4,0.0,0.0
+2015_GDP_PPP,OTHER,float64,122,0.0,0.0
+2010_GDP_PPP,OTHER,float64,122,0.0,0.0
+2005_GDP_PPP,OTHER,float64,122,0.0,0.0
+2000_GDP_PPP,OTHER,float64,122,0.0,0.0
+1995_GDP_PPP,OTHER,float64,122,0.0,0.0
+1990_GDP_PPP,OTHER,float64,122,0.0,0.0
+2010_GDP_PC_PPP,OTHER,float64,72,0.0,0.0
+2015_GDP_PC_PPP,OTHER,float64,72,0.0,0.0
+2005_GDP_PC_PPP,OTHER,float64,72,0.0,0.0
+2000_GDP_PC_PPP,OTHER,float64,72,0.0,0.0
+1995_GDP_PC_PPP,OTHER,float64,72,0.0,0.0
+1990_GDP_PC_PPP,OTHER,float64,72,0.0,0.0
+Night Light,OTHER,float64,122,0.0,0.0
+Road Density,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Urban percentage,OTHER,float64,120,0.0,0.0
+2010_HDI,OTHER,float64,74,0.0,0.0
+2015_HDI,OTHER,float64,74,0.0,0.0
+2005_HDI,OTHER,float64,74,0.0,0.0
+2000_HDI,OTHER,float64,74,0.0,0.0
+1995_HDI,OTHER,float64,74,0.0,0.0
+1990_HDI,OTHER,float64,74,0.0,0.0
+Population Count,OTHER,float64,122,0.0,0.0
+Population Density,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Land cover,CATCHMENT / PHYSICAL,str,4,0.0,0.0
+Soil type,CATCHMENT / PHYSICAL,str,8,0.0,0.0
+lithology type,CATCHMENT / PHYSICAL,str,5,0.0,0.0
+Warning Level,GAUGE THRESHOLD,float64,117,0.0,0.0
+Danger Level,GAUGE THRESHOLD,float64,113,1.33,5.96
+Latitude,METADATA,float64,122,0.0,0.0
+Longitude,METADATA,float64,121,0.0,0.0
+Basin,METADATA,str,21,0.13,0.0
+State,METADATA,str,14,0.0,0.0
+Level_Entries,OTHER,int64,118,0.0,0.0
+Streamflow_Entries,CATCHMENT / PHYSICAL,int64,81,0.0,0.0
+Source Catchment Area,CATCHMENT / PHYSICAL,float64,107,1.3,0.13
+Catchment Area,CATCHMENT / PHYSICAL,float64,122,0.0,0.0
+Area variation (%),CATCHMENT / PHYSICAL,float64,108,1.3,0.13
+Reliability,METADATA,str,2,0.0,0.0
+Event_Start_Year,TEMPORAL FEATURE,int64,56,0.0,0.0
+Event_Start_Month,TEMPORAL FEATURE,int64,12,0.0,0.0
+Event_Start_DayOfYear,TEMPORAL FEATURE,int64,288,0.0,0.0
+Event_Season,TEMPORAL FEATURE,str,4,0.0,0.0

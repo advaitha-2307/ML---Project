@@ -1,0 +1,149 @@
+column,dtype,missing_count,missing_percent,unique_values
+No. of Eigthorder Streams,float64,4548,100.0,0
+Eighthorder Streams Length,float64,4548,100.0,0
+SeventhEighth Stream Length Ratio,float64,4548,100.0,0
+Eighthorder Streams Mean Length,float64,4548,100.0,0
+SeventhEighth Bifurcation Ratio,float64,4548,100.0,0
+Seventhorder Streams Length,float64,4536,99.73614775725594,5
+No. of Seventhorder Streams,float64,4536,99.73614775725594,1
+SixthSeventh Stream Length Ratio,float64,4536,99.73614775725594,5
+Seventhorder Streams Mean Length,float64,4536,99.73614775725594,5
+Sixthseventh Bifurcation Ratio,float64,4536,99.73614775725594,2
+Sixthorder Streams Mean Length,float64,3865,84.98240985048373,17
+Sixthorder Streams Length,float64,3865,84.98240985048373,17
+No. of Sixthorder Streams,float64,3865,84.98240985048373,3
+FifthSixth Bifurcation Ratio,float64,3865,84.98240985048373,7
+FifthSixth Stream Length Ratio,float64,3865,84.98240985048373,18
+Fifthorder Streams Length,float64,2632,57.87159190853123,49
+Fifthorder Streams Mean Length,float64,2632,57.87159190853123,49
+FourthFifth Stream Length Ratio,float64,2632,57.87159190853123,52
+No. of Fifthorder Streams,float64,2611,57.40985048372911,8
+FourthFifth Bifurcation Ratio,float64,2611,57.40985048372911,15
+Fourthorder Streams Length,float64,1287,28.298153034300793,78
+ThirdForth Stream Length Ratio,float64,1287,28.298153034300793,88
+Fourthorder Streams Mean Length,float64,1287,28.298153034300793,78
+No. of Fourthorder Streams,float64,1287,28.298153034300793,17
+ThirdForth Bifurcation Ratio,float64,1287,28.298153034300793,39
+Flood Volume (cumec),float64,577,12.686895338610379,3830
+Peak Discharge Date,str,555,12.203166226912929,2452
+Peak Discharge Q (cumec),float64,555,12.203166226912929,3655
+SecondThird Stream Length Ratio,float64,252,5.540897097625329,129
+Thirdorder Streams Length,float64,252,5.540897097625329,129
+No. of Thirdorder Streams,float64,252,5.540897097625329,42
+Thirdorder Streams Mean Length,float64,252,5.540897097625329,129
+SecondThird Bifurcation Ratio,float64,252,5.540897097625329,68
+Danger Level,float64,97,2.132805628847845,139
+Source Catchment Area,float64,50,1.0993843447669305,134
+Area variation (%),float64,50,1.0993843447669305,135
+Secondorder Streams  Mean Length,float64,28,0.6156552330694811,143
+Secondorder Streams Length,float64,28,0.6156552330694811,143
+FirstSecond Stream Length Ratio,float64,28,0.6156552330694811,145
+No. of Secondorder Streams,float64,27,0.5936675461741424,70
+FirstSecond Bifurcation Ratio,float64,27,0.5936675461741424,103
+Basin,str,5,0.10993843447669306,22
+EventID,str,0,0.0,4548
+Flood Type,str,0,0.0,2
+Recession Time (day),int64,0,0.0,77
+Time to Peak (days),int64,0,0.0,63
+Event Duration (days),int64,0,0.0,95
+Peak FL Date,str,0,0.0,2736
+Num Peak FL,int64,0,0.0,14
+Start Date,str,0,0.0,2791
+End Date,str,0,0.0,2985
+Peak Flood Level (m),float64,0,0.0,3170
+T6d,float64,0,0.0,4430
+T5d,float64,0,0.0,4426
+T4d,float64,0,0.0,4424
+T3d,float64,0,0.0,4421
+T2d,float64,0,0.0,4416
+T1d,float64,0,0.0,4409
+GaugeID,str,0,0.0,155
+Ruggedness Number,float64,0,0.0,150
+Compactness Coefficient,float64,0,0.0,150
+Drainage Density,float64,0,0.0,150
+Drainage Texture,float64,0,0.0,150
+No. of Firstorder Streams,int64,0,0.0,104
+Drainage Intensity,float64,0,0.0,148
+Infiltration Number,float64,0,0.0,91
+Basin Magnitude,int64,0,0.0,104
+Channel Frequency,float64,0,0.0,72
+Drainage Area,float64,0,0.0,150
+Downvalley Length,float64,0,0.0,150
+Maximal Flow Length,float64,0,0.0,150
+Stream Order,int64,0,0.0,7
+Sinuosity Index,float64,0,0.0,150
+Catchment Perimeter,float64,0,0.0,150
+Catchment Length,float64,0,0.0,150
+Catchment Relief,int64,0,0.0,142
+T10d,float64,0,0.0,4433
+T9d,float64,0,0.0,4432
+T8d,float64,0,0.0,4431
+Lemniscates Value,float64,0,0.0,150
+Wandering Ratio,float64,0,0.0,150
+Fitness Ratio,float64,0,0.0,150
+Elongation Ratio,float64,0,0.0,145
+Circularity Ratio,float64,0,0.0,150
+Firstorder Streams Length,float64,0,0.0,150
+Firstorder Streams  Mean  Length,float64,0,0.0,150
+Relief Ratio,float64,0,0.0,150
+Form Factor,float64,0,0.0,150
+T7d,float64,0,0.0,4431
+Annual Mean Temperature,float64,0,0.0,150
+Mean Diurnal Range,float64,0,0.0,150
+Isothermality,float64,0,0.0,150
+Mean Temperature of Wettest Quarter,float64,0,0.0,150
+Mean Temperature of Driest Quarter,float64,0,0.0,150
+Mean Temperature of Warmest Quarter,float64,0,0.0,150
+Mean Temperature of Coldest Quarter,float64,0,0.0,150
+Temperature Seasonality,float64,0,0.0,150
+Max Temperature of Warmest Month,float64,0,0.0,150
+Min Temperature of Coldest Month,float64,0,0.0,150
+Temperature Annual Range,float64,0,0.0,150
+Precipitation of Wettest Quarter,float64,0,0.0,150
+Precipitation of Driest Quarter,float64,0,0.0,150
+Precipitation of Warmest Quarter,float64,0,0.0,150
+Precipitation of Coldest Quarter,float64,0,0.0,150
+KoppenGeiger Climate Type,str,0,0.0,4
+2015_GDP_PPP,float64,0,0.0,150
+2010_GDP_PPP,float64,0,0.0,150
+2005_GDP_PPP,float64,0,0.0,150
+2000_GDP_PPP,float64,0,0.0,150
+1995_GDP_PPP,float64,0,0.0,150
+1990_GDP_PPP,float64,0,0.0,150
+2010_GDP_PC_PPP,float64,0,0.0,89
+Annual Precipitation,float64,0,0.0,150
+Precipitation of Wettest Month,float64,0,0.0,150
+Precipitation of Driest Month,float64,0,0.0,147
+Precipitation Seasonality,float64,0,0.0,150
+1995_GDP_PC_PPP,float64,0,0.0,89
+2000_GDP_PC_PPP,float64,0,0.0,89
+2005_GDP_PC_PPP,float64,0,0.0,89
+2015_GDP_PC_PPP,float64,0,0.0,89
+1990_GDP_PC_PPP,float64,0,0.0,89
+Night Light,float64,0,0.0,150
+Road Density,float64,0,0.0,150
+Urban percentage,float64,0,0.0,148
+1995_HDI,float64,0,0.0,93
+1990_HDI,float64,0,0.0,93
+Population Count,float64,0,0.0,150
+Population Density,float64,0,0.0,150
+2010_HDI,float64,0,0.0,93
+2015_HDI,float64,0,0.0,93
+2005_HDI,float64,0,0.0,93
+2000_HDI,float64,0,0.0,93
+Warning Level,float64,0,0.0,143
+lithology type,str,0,0.0,6
+Soil type,str,0,0.0,8
+Land cover,str,0,0.0,4
+Longitude,float64,0,0.0,149
+River Name/ Tributory/ SubTributory,str,0,0.0,105
+Latitude,float64,0,0.0,150
+Station,str,0,0.0,153
+Start_date,str,0,0.0,104
+State,str,0,0.0,15
+End_date,str,0,0.0,18
+Level_Entries,int64,0,0.0,149
+Privacy,str,0,0.0,1
+Streamflow_Entries,int64,0,0.0,105
+Catchment Area,float64,0,0.0,150
+Reliability,str,0,0.0,2

@@ -1,0 +1,167 @@
+Feature,Mean_Absolute_SHAP
+num__Relief Ratio,78.03151471088792
+num__Precipitation of Driest Month,23.447276868079083
+num__Mean Temperature of Coldest Quarter,23.12089111862266
+num__Annual Mean Temperature,19.953099663960902
+num__Precipitation of Driest Quarter,18.172799101143415
+num__Isothermality,14.880239673556044
+num__Mean Diurnal Range,14.279239215087127
+num__Precipitation of Wettest Month,13.868201216065316
+cat__Basin_Krishna,11.341228572996679
+num__Ruggedness Number,10.946602862419212
+num__Precipitation of Wettest Quarter,9.979596500752205
+num__Mean Temperature of Wettest Quarter,9.955822810911666
+num__Annual Precipitation,7.493233356685582
+num__Road Density,6.901813389428238
+num__Infiltration Number,6.864509892832989
+num__Temperature Seasonality,6.803523380109066
+num__1990_GDP_PC_PPP,6.690187404544095
+num__Precipitation Seasonality,5.216464487171191
+num__Min Temperature of Coldest Month,4.049896508788266
+num__Precipitation of Coldest Quarter,3.4532948192019766
+cat__Basin_Godavari,3.4526673348037487
+num__Mean Temperature of Warmest Quarter,3.366076810974098
+num__No. of Fourthorder Streams,3.169670705963047
+num__SecondThird Stream Length Ratio,2.7521828240251383
+num__Fifthorder Streams Mean Length,2.589855194253497
+num__2010_GDP_PC_PPP,2.4591261944328493
+num__Compactness Coefficient,2.0146499536325213
+num__Precipitation of Warmest Quarter,1.9347664278732224
+num__Source Catchment Area,1.9208809282517634
+num__Max Temperature of Warmest Month,1.8177751246080789
+num__Catchment Relief,1.6099147276237646
+num__Fitness Ratio,1.5850584557959915
+num__Catchment Perimeter,1.5340874847325445
+num__Population Count,1.4116643836182736
+num__Firstorder Streams Length,1.362915811212798
+cat__KoppenGeiger Climate Type_Arid,1.360725864599068
+num__Area variation (%),1.3250221617417
+num__Circularity Ratio,1.3244371585953447
+num__No. of Thirdorder Streams,1.3068745348171227
+num__Temperature Annual Range,1.292273175468289
+num__2015_GDP_PC_PPP,1.2548105523589512
+num__Downvalley Length,1.235038700974497
+num__Event_Start_DayOfYear,1.0757246627245005
+num__Urban percentage,0.9959606896929633
+num__Elongation Ratio,0.9762643029994075
+num__Channel Frequency,0.9159440098608553
+num__Event_Start_Year,0.8957753059514743
+num__Catchment Area,0.7516406843751211
+num__FirstSecond Stream Length Ratio,0.6901521151306723
+num__ThirdForth Bifurcation Ratio,0.6876667056525027
+num__Secondorder Streams  Mean Length,0.654584071152967
+num__Latitude,0.639407463687122
+cat__Basin_Cauvery,0.6303005671571047
+num__No. of Secondorder Streams,0.5940710912641556
+num__Drainage Texture,0.559677700720485
+num__T4d,0.5476196820099711
+num__T10d,0.5329718932692936
+num__1990_GDP_PPP,0.516616334928299
+num__Drainage Area,0.39999607879122256
+num__Sinuosity Index,0.39908897118818615
+num__1995_HDI,0.3886644516069622
+num__1995_GDP_PC_PPP,0.38826645920226927
+num__Mean Temperature of Driest Quarter,0.36030781932093936
+num__Night Light,0.3353683016314402
+num__1995_GDP_PPP,0.32455010804831486
+cat__Basin_Tapi,0.31127558485217444
+cat__Event_Season_Winter,0.26818642573254337
+num__Event_Start_Month,0.255987405314173
+num__Thirdorder Streams Mean Length,0.23376731188742794
+num__T8d,0.2329703266613842
+cat__lithology type_Basic volcanic rocks,0.22696964707074743
+num__Thirdorder Streams Length,0.2159889103321025
+num__Drainage Intensity,0.21322147913069806
+num__2000_GDP_PPP,0.20729897163466737
+cat__Land cover_No dominant class,0.19986601313961436
+num__Drainage Density,0.18586929378167813
+num__2005_GDP_PPP,0.17879784781870153
+num__Fourthorder Streams Mean Length,0.17741704737088254
+num__Lemniscates Value,0.1710944533679755
+num__T5d,0.16781933938003962
+num__T2d,0.15424875573868935
+num__SecondThird Bifurcation Ratio,0.14376463614321827
+num__Longitude,0.12569531351742994
+num__FourthFifth Stream Length Ratio,0.12176493470933869
+num__2000_GDP_PC_PPP,0.11387260014157553
+num__Fourthorder Streams Length,0.10224769701396219
+cat__Land cover_Mosaic vegetation,0.09435776961358813
+num__Secondorder Streams Length,0.0928258050198873
+cat__State_Chhattisgarh,0.09094938174542008
+num__No. of Firstorder Streams,0.08827359123212873
+num__T6d,0.08133633302083476
+num__Firstorder Streams  Mean  Length,0.0797813770044533
+num__Form Factor,0.060890541772133905
+num__FourthFifth Bifurcation Ratio,0.0566613026280477
+cat__lithology type_No dominant class,0.05629133743201063
+num__T9d,0.05548468246094764
+num__T3d,0.048245242737178416
+num__Population Density,0.032874824334565005
+cat__KoppenGeiger Climate Type_No dominant class,0.03237958409997615
+num__2015_GDP_PPP,0.027390147954323353
+num__Fifthorder Streams Length,0.027034641975445292
+num__1990_HDI,0.023650831282990625
+cat__State_Madhya Pradesh,0.023131378215815325
+cat__Basin_West flowing rivers of Kutchh and Saurashtra including Luni,0.02210996696089305
+num__Wandering Ratio,0.018098978667499516
+num__2010_HDI,0.013168156498020223
+cat__Land cover_Forest,0.012366118310542849
+num__FirstSecond Bifurcation Ratio,0.011644654781926325
+num__Maximal Flow Length,0.010976800878412622
+num__Catchment Length,0.010267255558796613
+cat__Soil type_Vertisols,0.006263097277141094
+cat__Soil type_No dominant class,0.0061253608281135056
+cat__Soil type_Luvisols,0.004482962681290928
+num__T1d,0.004104442513430362
+num__2015_HDI,0.003451747466044405
+num__T7d,0.003020358843167956
+cat__State_Telangana,0.002907488094808067
+num__2005_HDI,0.0019346200431314747
+cat__Land cover_Cropland,0.001807180659809607
+num__2010_GDP_PPP,0.0016060179244903245
+cat__State_Gujarat,0.0014355068616926235
+cat__Soil type_Cambisols,0.0013061256387784347
+cat__Basin_Mahi,0.0012518199084948845
+cat__State_Kerala,0.0005800287956785402
+num__2005_GDP_PC_PPP,0.00018840201882083427
+num__Stream Order,0.0
+num__No. of Fifthorder Streams,0.0
+num__Basin Magnitude,0.0
+num__2000_HDI,0.0
+num__ThirdForth Stream Length Ratio,0.0
+cat__KoppenGeiger Climate Type_Temperate,0.0
+cat__Soil type_Leptosols,0.0
+cat__Soil type_Acrisols,0.0
+cat__KoppenGeiger Climate Type_Tropical,0.0
+cat__Basin_Ganga - Brahmaputra -Meghna/Barak,0.0
+cat__Basin_Ganga,0.0
+cat__Basin_East flowing rivers between Pennar Kanyakumari,0.0
+cat__Basin_East flowing rivers between Mahanadi and Pennar,0.0
+cat__Basin_Brahmani and Baitarni,0.0
+cat__Basin_ Brahmni - Baitarni,0.0
+cat__lithology type_Unconsolidated sediments,0.0
+cat__lithology type_Metamorphics,0.0
+cat__Soil type_Lixisols,0.0
+cat__lithology type_Acid plutonic rocks,0.0
+cat__Soil type_Fluvisols,0.0
+cat__Basin_West Flowing Rivers From Tadri to Kanyakumari,0.0
+cat__Basin_Subernarekha,0.0
+cat__Basin_Subarnarekha,0.0
+cat__Basin_Mahanadi,0.0
+cat__Basin_Narmada,0.0
+cat__State_Andhra Pradesh,0.0
+cat__Basin_West flowing rivers from Tapi to Tadri,0.0
+cat__Basin_West flowing rivers from Tadri to Kanyakumari,0.0
+cat__Basin_West flowing rivers from Tapi of Tadri,0.0
+cat__Basin_West flowing rivers from  Tapi to Tadri,0.0
+cat__State_Jharkhand,0.0
+cat__State_Karnataka,0.0
+cat__State_Dadra and Nagar Haveli and Daman and Diu,0.0
+cat__State_Odisha,0.0
+cat__State_Maharashtra,0.0
+cat__State_Tamil Nadu,0.0
+cat__State_Rajasthan,0.0
+cat__State_West Bengal,0.0
+cat__Event_Season_Monsoon,0.0
+cat__Event_Season_Post-Monsoon,0.0
+cat__Event_Season_Pre-Monsoon,0.0

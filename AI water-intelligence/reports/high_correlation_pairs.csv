@@ -1,0 +1,390 @@
+feature_1,feature_2,correlation
+Basin Magnitude,No. of Firstorder Streams,1.0
+Seventhorder Streams Length,Seventhorder Streams Mean Length,1.0
+Sixthorder Streams Length,Sixthseventh Bifurcation Ratio,1.0
+Drainage Area,Catchment Area,1.0
+No. of Sixthorder Streams,Sixthseventh Bifurcation Ratio,1.0
+Sixthorder Streams Mean Length,Sixthseventh Bifurcation Ratio,-1.0
+Warning Level,Danger Level,0.9999908916646859
+Sixthseventh Bifurcation Ratio,Isothermality,-0.9999785536907734
+Sixthseventh Bifurcation Ratio,Precipitation of Driest Month,0.9999043759885647
+2000_HDI,1995_HDI,0.9999017767066948
+2015_GDP_PPP,2010_GDP_PPP,0.9998800015289276
+Sixthseventh Bifurcation Ratio,Precipitation of Driest Quarter,0.9998754313710037
+1995_HDI,1990_HDI,0.9998677247079272
+2010_HDI,2005_HDI,0.9998530275304878
+2005_HDI,2000_HDI,0.9998290693263826
+Sixthseventh Bifurcation Ratio,Mean Temperature of Coldest Quarter,-0.9996486485919844
+Recession Time (day),Sixthseventh Bifurcation Ratio,-0.9996018849059962
+2000_HDI,1990_HDI,0.9995420156168521
+2005_HDI,1995_HDI,0.9994718062312673
+2010_GDP_PPP,2005_GDP_PPP,0.9994652900536012
+No. of Firstorder Streams,Catchment Area,0.9994607505980462
+Drainage Area,Basin Magnitude,0.9994607505980462
+Drainage Area,No. of Firstorder Streams,0.9994607505980462
+Basin Magnitude,Catchment Area,0.9994607505980462
+2010_HDI,2000_HDI,0.9993652273540562
+Firstorder Streams Length,Catchment Area,0.9993578512291187
+Drainage Area,Firstorder Streams Length,0.9993578512291187
+No. of Firstorder Streams,Firstorder Streams Length,0.9993189937213343
+Basin Magnitude,Firstorder Streams Length,0.9993189937213343
+Sixthseventh Bifurcation Ratio,Mean Temperature of Driest Quarter,-0.9992547188136344
+Sixthseventh Bifurcation Ratio,Mean Temperature of Wettest Quarter,0.9992477702487594
+Sixthseventh Bifurcation Ratio,Precipitation of Wettest Quarter,0.9991972725324422
+2015_GDP_PPP,2005_GDP_PPP,0.9991804197903148
+Maximal Flow Length,SixthSeventh Stream Length Ratio,0.9991609378081087
+Drainage Density,Sixthseventh Bifurcation Ratio,0.9991428229429288
+Sixthseventh Bifurcation Ratio,Temperature Seasonality,0.9988557295763115
+2005_HDI,1990_HDI,0.9988126039329309
+Sixthseventh Bifurcation Ratio,Precipitation of Coldest Quarter,-0.9987876125735887
+No. of Secondorder Streams,Firstorder Streams Length,0.9987799697152037
+2010_HDI,1995_HDI,0.9987680592286748
+2010_GDP_PC_PPP,2015_GDP_PC_PPP,0.9986985176802902
+No. of Firstorder Streams,No. of Secondorder Streams,0.9984952370509937
+Basin Magnitude,No. of Secondorder Streams,0.9984952370509937
+No. of Secondorder Streams,Catchment Area,0.9983531400842589
+Drainage Area,No. of Secondorder Streams,0.9983531400842588
+Sixthseventh Bifurcation Ratio,Precipitation Seasonality,0.9983155634716814
+Catchment Length,Seventhorder Streams Length,0.998246511192428
+Catchment Length,Seventhorder Streams Mean Length,0.998246511192428
+Sixthseventh Bifurcation Ratio,Min Temperature of Coldest Month,-0.9981257487116317
+Sixthseventh Bifurcation Ratio,Precipitation of Wettest Month,0.9979845689538697
+2010_HDI,1990_HDI,0.9978320050368515
+1995_GDP_PPP,1990_GDP_PPP,0.9977667700343047
+Downvalley Length,Seventhorder Streams Length,0.9976445555575925
+Downvalley Length,Seventhorder Streams Mean Length,0.9976445555575925
+FirstSecond Stream Length Ratio,Sixthseventh Bifurcation Ratio,-0.9976416207444704
+2005_GDP_PPP,2000_GDP_PPP,0.9973993576614371
+Sixthseventh Bifurcation Ratio,Mean Temperature of Warmest Quarter,0.99734157725857
+SecondThird Stream Length Ratio,Sixthseventh Bifurcation Ratio,0.9969591828614016
+Secondorder Streams  Mean Length,Sixthseventh Bifurcation Ratio,-0.9968980168563848
+2010_GDP_PPP,2000_GDP_PPP,0.9968766332470325
+Catchment Relief,Ruggedness Number,0.9968656315911527
+FifthSixth Stream Length Ratio,Sixthseventh Bifurcation Ratio,0.9968214592934128
+2015_GDP_PPP,2000_GDP_PPP,0.9967294964487473
+Sixthseventh Bifurcation Ratio,Temperature Annual Range,0.9961914232629647
+T9d,T10d,0.9961410468727364
+Seventhorder Streams Mean Length,SixthSeventh Stream Length Ratio,0.9958845313029546
+Seventhorder Streams Length,SixthSeventh Stream Length Ratio,0.9958845313029546
+2010_HDI,2015_HDI,0.9958817233431408
+2015_HDI,2005_HDI,0.9955656895236166
+Drainage Area,Secondorder Streams Length,0.9954133804366561
+Secondorder Streams Length,Catchment Area,0.995413380436656
+Downvalley Length,SixthSeventh Stream Length Ratio,0.9952768567717692
+Sixthseventh Bifurcation Ratio,Precipitation of Warmest Quarter,0.9951572098851255
+Firstorder Streams Length,Secondorder Streams Length,0.9950368490459472
+No. of Secondorder Streams,Secondorder Streams Length,0.9949481258844408
+2015_HDI,2000_HDI,0.9948985104683228
+T8d,T9d,0.9947915610662527
+Catchment Length,SixthSeventh Stream Length Ratio,0.9947223029186372
+Sixthseventh Bifurcation Ratio,Max Temperature of Warmest Month,0.9942723067336743
+T7d,T8d,0.9942343990847202
+2015_HDI,1995_HDI,0.9941676611835469
+FirstSecond Bifurcation Ratio,Sixthseventh Bifurcation Ratio,0.9941674267854571
+Sixthseventh Bifurcation Ratio,Road Density,-0.9940726509301112
+No. of Firstorder Streams,Secondorder Streams Length,0.9934594489463792
+Basin Magnitude,Secondorder Streams Length,0.9934594489463792
+Sixthseventh Bifurcation Ratio,Annual Mean Temperature,0.99328365068814
+Sixthseventh Bifurcation Ratio,Night Light,-0.9932818428618374
+Sixthseventh Bifurcation Ratio,Urban percentage,-0.9932562489722753
+Sixthseventh Bifurcation Ratio,Annual Precipitation,0.9931957413439237
+2015_HDI,1990_HDI,0.9930820909235135
+Precipitation of Wettest Month,Precipitation of Wettest Quarter,0.9928110363511818
+T6d,T7d,0.9919987868067146
+No. of Secondorder Streams,No. of Thirdorder Streams,0.9915129817588653
+Catchment Perimeter,Sixthseventh Bifurcation Ratio,0.9914189137133644
+Maximal Flow Length,Seventhorder Streams Mean Length,0.991337004769613
+Maximal Flow Length,Seventhorder Streams Length,0.991337004769613
+No. of Thirdorder Streams,Firstorder Streams Length,0.9910835890618346
+No. of Thirdorder Streams,Thirdorder Streams Length,0.9908247914162328
+Relief Ratio,Sixthseventh Bifurcation Ratio,-0.9902734480466432
+Sixthseventh Bifurcation Ratio,Population Density,-0.9900579638945598
+Basin Magnitude,No. of Thirdorder Streams,0.9898716413155286
+No. of Firstorder Streams,No. of Thirdorder Streams,0.9898716413155286
+No. of Thirdorder Streams,Catchment Area,0.9897847619518594
+Drainage Area,No. of Thirdorder Streams,0.9897847619518594
+T5d,T6d,0.9896163104709705
+1995_GDP_PC_PPP,1990_GDP_PC_PPP,0.9890262664024928
+Sixthseventh Bifurcation Ratio,Warning Level,-0.9882967855897573
+T4d,T5d,0.9880589533493614
+No. of Secondorder Streams,Thirdorder Streams Length,0.9878816335109533
+Drainage Area,Thirdorder Streams Length,0.9876462739949236
+Thirdorder Streams Length,Catchment Area,0.9876462739949234
+Sixthseventh Bifurcation Ratio,Danger Level,-0.9873959021014184
+2005_GDP_PC_PPP,2000_GDP_PC_PPP,0.9872260839861906
+Downvalley Length,Catchment Length,0.9872048130868909
+Firstorder Streams Length,Thirdorder Streams Length,0.9871006881524026
+Basin Magnitude,Thirdorder Streams Length,0.9870233576574243
+No. of Firstorder Streams,Thirdorder Streams Length,0.9870233576574243
+No. of Thirdorder Streams,Secondorder Streams Length,0.9869700170973776
+Thirdorder Streams Mean Length,Sixthseventh Bifurcation Ratio,0.9861702415652559
+Channel Frequency,Sixthseventh Bifurcation Ratio,0.986094340482397
+T8d,T10d,0.9857149760386226
+Maximal Flow Length,Catchment Length,0.9854740972129542
+Drainage Intensity,Sixthseventh Bifurcation Ratio,0.9853674253608679
+Infiltration Number,Sixthseventh Bifurcation Ratio,0.9851915207922763
+T3d,T4d,0.9844899213952344
+Peak Flood Level (m),Sixthseventh Bifurcation Ratio,-0.9838774748245918
+T7d,T9d,0.9828222107294393
+Event Duration (days),Recession Time (day),0.9824532790597856
+Secondorder Streams Length,Seventhorder Streams Mean Length,0.9819188183304628
+Secondorder Streams Length,Seventhorder Streams Length,0.9819188183304628
+Precipitation of Driest Month,Precipitation of Driest Quarter,0.9818765958361667
+No. of Fourthorder Streams,Sixthseventh Bifurcation Ratio,0.9811797082523003
+Seventhorder Streams Mean Length,Longitude,0.981176826769876
+Seventhorder Streams Length,Longitude,0.981176826769876
+Stream Order,No. of Sixthorder Streams,0.9811738140097214
+2015_GDP_PPP,1995_GDP_PPP,0.9811041447167979
+2000_GDP_PPP,1990_GDP_PPP,0.9810916345962856
+2000_GDP_PPP,1995_GDP_PPP,0.9810346506122123
+2010_GDP_PC_PPP,2005_GDP_PC_PPP,0.9807976968471884
+2015_GDP_PC_PPP,2005_GDP_PC_PPP,0.9804650156100959
+Form Factor,SixthSeventh Stream Length Ratio,-0.9801415923573137
+2010_GDP_PPP,1995_GDP_PPP,0.9798931224187485
+Secondorder Streams Length,Thirdorder Streams Length,0.9787370400889256
+2005_GDP_PPP,1995_GDP_PPP,0.9785586413831808
+T6d,T8d,0.9782552179545277
+2015_GDP_PPP,1990_GDP_PPP,0.9776192753272547
+Sixthseventh Bifurcation Ratio,2005_GDP_PPP,-0.9770492506479235
+2010_GDP_PPP,1990_GDP_PPP,0.976351499729267
+Sixthseventh Bifurcation Ratio,2015_GDP_PPP,-0.9760909677368784
+Level_Entries,Streamflow_Entries,0.9758420738513994
+Sixthseventh Bifurcation Ratio,2010_GDP_PPP,-0.9754930220637921
+2005_GDP_PPP,1990_GDP_PPP,0.9753862124930877
+SixthSeventh Stream Length Ratio,Population Count,0.9753518302834617
+Circularity Ratio,Sixthseventh Bifurcation Ratio,-0.9751486800936694
+Fifthorder Streams Mean Length,Sixthseventh Bifurcation Ratio,-0.9746560844593674
+Sixthseventh Bifurcation Ratio,2000_GDP_PPP,-0.9746348251283847
+Source Catchment Area,Catchment Area,0.9742028700108291
+Drainage Area,Source Catchment Area,0.9742028700108291
+Firstorder Streams Length,Source Catchment Area,0.9738279641307601
+Wandering Ratio,Sixthseventh Bifurcation Ratio,-0.9737366740916413
+No. of Firstorder Streams,Source Catchment Area,0.9736821885472422
+Basin Magnitude,Source Catchment Area,0.9736821885472422
+FourthFifth Stream Length Ratio,Sixthseventh Bifurcation Ratio,-0.9733846454694568
+Fifthorder Streams Length,Sixthseventh Bifurcation Ratio,0.9731400189643524
+No. of Secondorder Streams,Source Catchment Area,0.9722989227060342
+Annual Precipitation,Precipitation of Wettest Quarter,0.9722345874893065
+Form Factor,Seventhorder Streams Length,-0.9722100456102502
+Form Factor,Seventhorder Streams Mean Length,-0.9722100456102502
+Elongation Ratio,Seventhorder Streams Length,-0.9721574771266046
+Elongation Ratio,Seventhorder Streams Mean Length,-0.9721574771266046
+T2d,T3d,0.9714840145974382
+Seventhorder Streams Mean Length,2005_HDI,-0.9710720063016193
+Seventhorder Streams Length,2005_HDI,-0.9710720063016193
+Seventhorder Streams Length,2000_HDI,-0.9710720018886927
+Seventhorder Streams Mean Length,2000_HDI,-0.9710720018886927
+Seventhorder Streams Mean Length,1995_HDI,-0.9710719770798308
+Seventhorder Streams Length,1995_HDI,-0.9710719770798308
+Seventhorder Streams Length,2015_HDI,-0.9710719631351313
+Seventhorder Streams Mean Length,2015_HDI,-0.9710719631351313
+Seventhorder Streams Length,2010_HDI,-0.971071959924404
+Seventhorder Streams Mean Length,2010_HDI,-0.971071959924404
+Seventhorder Streams Mean Length,1990_HDI,-0.9710719479588619
+Seventhorder Streams Length,1990_HDI,-0.9710719479588619
+T7d,T10d,0.9709283152577268
+T5d,T7d,0.9708555185757705
+Secondorder Streams Length,SixthSeventh Stream Length Ratio,0.9706540530523657
+Event Duration (days),Sixthseventh Bifurcation Ratio,-0.9703388372793947
+Secondorder Streams Length,Source Catchment Area,0.9692828702834928
+FifthSixth Bifurcation Ratio,Sixthseventh Bifurcation Ratio,-0.9690486871410391
+Peak Flood Level (m),Danger Level,0.9682269099062395
+Peak Flood Level (m),Warning Level,0.9681513137117604
+Seventhorder Streams Length,Population Count,0.9678663895422152
+Seventhorder Streams Mean Length,Population Count,0.9678663895422152
+Seventhorder Streams Length,Source Catchment Area,0.9676098555513377
+Seventhorder Streams Mean Length,Source Catchment Area,0.9676098555513377
+SixthSeventh Stream Length Ratio,2005_GDP_PC_PPP,-0.9672413140658229
+Drainage Area,Seventhorder Streams Length,0.9670796339537308
+Drainage Area,Seventhorder Streams Mean Length,0.9670796339537308
+Seventhorder Streams Length,Catchment Area,0.9670796339537304
+Seventhorder Streams Mean Length,Catchment Area,0.9670796339537304
+Lemniscates Value,SixthSeventh Stream Length Ratio,0.966838772797195
+Maximal Flow Length,Catchment Perimeter,0.9663130440086783
+Catchment Perimeter,Sixthorder Streams Length,0.9657702359779939
+Seventhorder Streams Mean Length,1990_GDP_PPP,-0.9653670779981623
+Seventhorder Streams Length,1990_GDP_PPP,-0.9653670779981623
+T4d,T6d,0.9650094000528839
+Seventhorder Streams Length,1995_GDP_PPP,-0.9648203914307466
+Seventhorder Streams Mean Length,1995_GDP_PPP,-0.9648203914307466
+Compactness Coefficient,Sixthseventh Bifurcation Ratio,0.9642009817760245
+2010_GDP_PC_PPP,2000_GDP_PC_PPP,0.9641112686172969
+T6d,T9d,0.963454359395644
+Max Temperature of Warmest Month,Mean Temperature of Warmest Quarter,0.9627669645127028
+Min Temperature of Coldest Month,Mean Temperature of Coldest Quarter,0.9627227242095172
+No. of Thirdorder Streams,Source Catchment Area,0.9624540634063415
+Sinuosity Index,Sixthseventh Bifurcation Ratio,-0.9618824273497502
+No. of Secondorder Streams,Seventhorder Streams Mean Length,0.9614816927687865
+No. of Secondorder Streams,Seventhorder Streams Length,0.9614816927687865
+2015_GDP_PC_PPP,2000_GDP_PC_PPP,0.9612014813188808
+SixthSeventh Stream Length Ratio,Longitude,0.9611170131194066
+ThirdForth Bifurcation Ratio,Sixthseventh Bifurcation Ratio,-0.9606843858020286
+Seventhorder Streams Mean Length,2005_GDP_PC_PPP,-0.9604589150283912
+Seventhorder Streams Length,2005_GDP_PC_PPP,-0.9604589150283912
+Thirdorder Streams Length,Source Catchment Area,0.960327891476036
+Firstorder Streams Length,Seventhorder Streams Length,0.9601594579449224
+Firstorder Streams Length,Seventhorder Streams Mean Length,0.9601594579449224
+Catchment Length,Catchment Perimeter,0.9580347678418831
+Basin Magnitude,Seventhorder Streams Length,0.9580241104768428
+No. of Firstorder Streams,Seventhorder Streams Mean Length,0.9580241104768428
+Basin Magnitude,Seventhorder Streams Mean Length,0.9580241104768428
+No. of Firstorder Streams,Seventhorder Streams Length,0.9580241104768428
+T3d,T5d,0.9575658661555313
+Fourthorder Streams Length,Seventhorder Streams Length,0.9573216776171131
+Fourthorder Streams Length,Seventhorder Streams Mean Length,0.9573216776171131
+Annual Precipitation,Precipitation of Wettest Month,0.9569146929987388
+Maximal Flow Length,Downvalley Length,0.9565624176839101
+Drainage Area,No. of Fourthorder Streams,0.9561550416401153
+No. of Fourthorder Streams,Catchment Area,0.9561550416401153
+Basin Magnitude,No. of Fourthorder Streams,0.9555461660180341
+No. of Firstorder Streams,No. of Fourthorder Streams,0.9555461660180341
+Isothermality,Temperature Seasonality,-0.9547818924816517
+Thirdorder Streams Length,Sixthseventh Bifurcation Ratio,0.9545434017013134
+No. of Secondorder Streams,No. of Fourthorder Streams,0.954362164756765
+No. of Fourthorder Streams,Firstorder Streams Length,0.9539584347685056
+No. of Thirdorder Streams,Seventhorder Streams Mean Length,0.9537969936995786
+No. of Thirdorder Streams,Seventhorder Streams Length,0.9537969936995786
+No. of Thirdorder Streams,No. of Fourthorder Streams,0.9527420429071017
+T5d,T8d,0.9525470120881994
+No. of Fifthorder Streams,Sixthseventh Bifurcation Ratio,0.9518172686249524
+SixthSeventh Stream Length Ratio,2005_HDI,-0.950520055315997
+SixthSeventh Stream Length Ratio,2000_HDI,-0.9505200539016885
+SixthSeventh Stream Length Ratio,1995_HDI,-0.9505200140341363
+SixthSeventh Stream Length Ratio,2015_HDI,-0.9505199899208941
+SixthSeventh Stream Length Ratio,2010_HDI,-0.9505199802496417
+SixthSeventh Stream Length Ratio,1990_HDI,-0.9505199597163709
+No. of Thirdorder Streams,Sixthseventh Bifurcation Ratio,0.9504023034889325
+T6d,T10d,0.9497460604501463
+Thirdorder Streams Length,Seventhorder Streams Length,0.9482414337901041
+Thirdorder Streams Length,Seventhorder Streams Mean Length,0.9482414337901041
+No. of Fourthorder Streams,Secondorder Streams Length,0.9479568683606924
+Lemniscates Value,Seventhorder Streams Mean Length,0.9475711732372324
+Lemniscates Value,Seventhorder Streams Length,0.9475711732372324
+No. of Fourthorder Streams,Thirdorder Streams Length,0.947361715794748
+Elongation Ratio,SixthSeventh Stream Length Ratio,-0.9470215725184549
+Flood Volume (cumec),Recession Time (day),0.9447587347898871
+No. of Firstorder Streams,Sixthseventh Bifurcation Ratio,0.9434655041863065
+Basin Magnitude,Sixthseventh Bifurcation Ratio,0.9434655041863065
+T1d,T2d,0.9431247389229066
+Temperature Seasonality,Temperature Annual Range,0.9427722108660149
+Drainage Area,SixthSeventh Stream Length Ratio,0.942678297814204
+SixthSeventh Stream Length Ratio,Catchment Area,0.9426782978142033
+SixthSeventh Stream Length Ratio,Source Catchment Area,0.9426066821883003
+No. of Fifthorder Streams,Seventhorder Streams Length,0.9413794386316281
+No. of Fifthorder Streams,Seventhorder Streams Mean Length,0.9413794386316281
+T4d,T7d,0.9412059285121261
+Circularity Ratio,Compactness Coefficient,-0.9408868452456961
+Firstorder Streams Length,Sixthseventh Bifurcation Ratio,0.9400033255643243
+Temperature Seasonality,Latitude,0.9399534464780036
+Sixthseventh Bifurcation Ratio,Mean Diurnal Range,0.93963191841918
+SixthSeventh Stream Length Ratio,1990_GDP_PPP,-0.9394857060726903
+Flood Volume (cumec),Event Duration (days),0.9387730027004579
+SixthSeventh Stream Length Ratio,1995_GDP_PPP,-0.9386949127540852
+No. of Secondorder Streams,Sixthseventh Bifurcation Ratio,0.938551765731891
+Isothermality,Latitude,-0.9378844843719348
+Sixthseventh Bifurcation Ratio,1995_GDP_PPP,-0.9362120938035553
+Elongation Ratio,Sixthseventh Bifurcation Ratio,-0.9359887151622378
+T5d,T9d,0.9355765656076237
+Seventhorder Streams Length,ThirdForth Stream Length Ratio,0.9354627609030062
+Seventhorder Streams Mean Length,ThirdForth Stream Length Ratio,0.9354627609030062
+T2d,T4d,0.935436724828022
+Sixthseventh Bifurcation Ratio,1990_GDP_PPP,-0.9351426069587035
+No. of Secondorder Streams,SixthSeventh Stream Length Ratio,0.9345437531290571
+Catchment Perimeter,Thirdorder Streams Length,0.9340020573169507
+Firstorder Streams Length,SixthSeventh Stream Length Ratio,0.9328148045744982
+Fourthorder Streams Length,Sixthseventh Bifurcation Ratio,0.9319698406039032
+Sixthseventh Bifurcation Ratio,Source Catchment Area,0.9315166621922746
+No. of Fourthorder Streams,Source Catchment Area,0.9311561299881346
+Fourthorder Streams Length,SixthSeventh Stream Length Ratio,0.9309082621664154
+Basin Magnitude,SixthSeventh Stream Length Ratio,0.9298417178502134
+No. of Firstorder Streams,SixthSeventh Stream Length Ratio,0.9298417178502134
+Sixthorder Streams Mean Length,FifthSixth Stream Length Ratio,0.9286657247170613
+T3d,T6d,0.9279028969155976
+Seventhorder Streams Mean Length,2000_GDP_PPP,-0.9277234558080467
+Seventhorder Streams Length,2000_GDP_PPP,-0.9277234558080467
+Drainage Area,Sixthseventh Bifurcation Ratio,0.9273717834400379
+Sixthseventh Bifurcation Ratio,Catchment Area,0.9273717834400375
+Basin Magnitude,Fourthorder Streams Length,0.927248260089308
+No. of Firstorder Streams,Fourthorder Streams Length,0.927248260089308
+Population Count,Catchment Area,0.9271478023776515
+Drainage Area,Population Count,0.9271478023776515
+Seventhorder Streams Length,2010_GDP_PPP,-0.9265162218946021
+Seventhorder Streams Mean Length,2010_GDP_PPP,-0.9265162218946021
+Catchment Perimeter,No. of Thirdorder Streams,0.9263947580298613
+Catchment Perimeter,No. of Secondorder Streams,0.925793051648415
+Seventhorder Streams Mean Length,2015_GDP_PPP,-0.925617920867217
+Seventhorder Streams Length,2015_GDP_PPP,-0.925617920867217
+Fourthorder Streams Length,Catchment Area,0.9244534664617097
+Drainage Area,Fourthorder Streams Length,0.9244534664617094
+Catchment Perimeter,Catchment Area,0.9244090295254946
+Drainage Area,Catchment Perimeter,0.9244090295254946
+Seventhorder Streams Mean Length,FourthFifth Stream Length Ratio,-0.9241766467403394
+Seventhorder Streams Length,FourthFifth Stream Length Ratio,-0.9241766467403394
+Seventhorder Streams Length,2005_GDP_PPP,-0.9240823706178396
+Seventhorder Streams Mean Length,2005_GDP_PPP,-0.9240823706178396
+No. of Thirdorder Streams,SixthSeventh Stream Length Ratio,0.9239427751899718
+Catchment Perimeter,Secondorder Streams Length,0.9233059231143358
+Isothermality,Temperature Annual Range,-0.9231742135762488
+Thirdorder Streams Length,Population Count,0.9231674013641749
+Downvalley Length,Catchment Perimeter,0.9229285393546913
+No. of Firstorder Streams,Population Count,0.9221336442460978
+Basin Magnitude,Population Count,0.9221336442460978
+Catchment Perimeter,No. of Firstorder Streams,0.921926690725171
+Catchment Perimeter,Basin Magnitude,0.921926690725171
+T5d,T10d,0.9212765913187604
+Fifthorder Streams Length,Seventhorder Streams Mean Length,0.9209393264902146
+Fifthorder Streams Length,Seventhorder Streams Length,0.9209393264902146
+T4d,T8d,0.9208112184036177
+Mean Temperature of Wettest Quarter,Mean Temperature of Warmest Quarter,0.9207788860002558
+Firstorder Streams Length,Fourthorder Streams Length,0.9205963797057799
+Firstorder Streams Length,Population Count,0.9203056669562221
+Catchment Perimeter,Firstorder Streams Length,0.9201296851700581
+Catchment Perimeter,Drainage Texture,0.9201280198443044
+No. of Secondorder Streams,Population Count,0.9201265802217776
+No. of Secondorder Streams,Fourthorder Streams Length,0.9195001651204336
+Secondorder Streams Length,Fifthorder Streams Length,0.918967084610697
+Seventhorder Streams Length,Fifthorder Streams Mean Length,-0.9189528580272324
+Fifthorder Streams Mean Length,Seventhorder Streams Mean Length,-0.9189528580272323
+Mean Diurnal Range,Temperature Annual Range,0.9187126162695202
+Thirdorder Streams Length,Fourthorder Streams Length,0.9183090594569934
+Thirdorder Streams Length,SixthSeventh Stream Length Ratio,0.9169951686503716
+Channel Frequency,Drainage Intensity,0.9162669477320275
+No. of Fourthorder Streams,Fourthorder Streams Length,0.9159371015074007
+Annual Mean Temperature,Mean Temperature of Wettest Quarter,0.9157269094933955
+No. of Fifthorder Streams,No. of Sixthorder Streams,0.9144476568553898
+ThirdForth Stream Length Ratio,SixthSeventh Stream Length Ratio,0.9133494309126334
+Firstorder Streams  Mean  Length,Sixthseventh Bifurcation Ratio,-0.9127535049148815
+Secondorder Streams Length,Population Count,0.9120168074718207
+Sixthseventh Bifurcation Ratio,Longitude,0.9118631193986739
+Fourthorder Streams Length,Population Count,0.91156701647976
+No. of Fourthorder Streams,Seventhorder Streams Length,0.9097516310673102
+No. of Fourthorder Streams,Seventhorder Streams Mean Length,0.9097516310673102
+No. of Fifthorder Streams,SixthSeventh Stream Length Ratio,0.9096826290684861
+Catchment Perimeter,No. of Fourthorder Streams,0.909597883386971
+No. of Sixthorder Streams,Fourthorder Streams Length,0.9076868058736272
+Mean Temperature of Driest Quarter,Mean Temperature of Coldest Quarter,0.907350157185093
+Sixthseventh Bifurcation Ratio,1990_GDP_PC_PPP,0.9067968760158946
+Sixthseventh Bifurcation Ratio,1990_HDI,-0.906790190555
+Sixthseventh Bifurcation Ratio,2010_HDI,-0.9067901472183253
+Sixthseventh Bifurcation Ratio,2015_HDI,-0.9067901098730483
+Sixthseventh Bifurcation Ratio,1995_HDI,-0.9067900582332482
+Sixthseventh Bifurcation Ratio,2005_HDI,-0.9067900071722703
+Sixthseventh Bifurcation Ratio,2000_HDI,-0.9067899850983084
+Seventhorder Streams Mean Length,Danger Level,-0.9064447853533659
+Seventhorder Streams Length,Danger Level,-0.9064447853533659
+Seventhorder Streams Mean Length,Warning Level,-0.9035365888763062
+Seventhorder Streams Length,Warning Level,-0.9035365888763062
+Population Count,Source Catchment Area,0.9033918273903044
+No. of Secondorder Streams,Fifthorder Streams Length,0.9032913441081337
+Firstorder Streams Length,Fifthorder Streams Length,0.9031944010024336
+Maximal Flow Length,Drainage Texture,0.903057287173629
+T4d,T9d,0.903051673530488
+No. of Thirdorder Streams,Population Count,0.9027055128253942
+No. of Firstorder Streams,Fifthorder Streams Length,0.9023867277737013
+Basin Magnitude,Fifthorder Streams Length,0.9023867277737013
+Drainage Texture,No. of Thirdorder Streams,0.9020261708797026
+T2d,T5d,0.9018088165295554
+Drainage Texture,No. of Secondorder Streams,0.9017611046981518
+T3d,T7d,0.9016510283411653
+Fifthorder Streams Length,Catchment Area,0.9003070223254019
+Drainage Area,Fifthorder Streams Length,0.9003070223254019

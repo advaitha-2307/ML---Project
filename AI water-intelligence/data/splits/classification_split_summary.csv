@@ -1,0 +1,2 @@
+Dataset,Target,Total_Rows,Train_Rows,Test_Rows,Total_Gauges,Train_Gauges,Test_Gauges,Gauge_Overlap,Train_Missing_Predictor_Columns,Test_Missing_Predictor_Columns,Random_State,Test_Size
+classification,Flood Type,4548,3760,788,155,124,31,0,24,18,42,0.2

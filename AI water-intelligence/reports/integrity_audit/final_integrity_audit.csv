@@ -1,0 +1,28 @@
+Status,Check
+PASS,Target dataset exists: peak_flood_level_regression.csv
+PASS,Target dataset exists: peak_discharge_regression.csv
+PASS,Target dataset exists: flood_volume_regression.csv
+PASS,Target dataset exists: flood_type_classification.csv
+PASS,peak_flood_level: no other post-event target/outcome columns
+PASS,peak_discharge: no other post-event target/outcome columns
+PASS,flood_volume: no other post-event target/outcome columns
+PASS,peak_flood_level: event/station/river identifiers excluded
+PASS,peak_discharge: event/station/river identifiers excluded
+PASS,flood_volume: event/station/river identifiers excluded
+PASS,peak_flood_level: GaugeID excluded from predictors
+PASS,peak_discharge: GaugeID excluded from predictors
+PASS,flood_volume: GaugeID excluded from predictors
+PASS,peak_flood_level: no GaugeID overlap between train and test
+PASS,peak_discharge: no GaugeID overlap between train and test
+PASS,flood_volume: no GaugeID overlap between train and test
+PASS,peak_flood_level: X/y/group row counts are consistent
+PASS,peak_discharge: X/y/group row counts are consistent
+PASS,flood_volume: X/y/group row counts are consistent
+PASS,peak_flood_level: target contains no missing values
+PASS,peak_discharge: target contains no missing values
+PASS,flood_volume: target contains no missing values
+PASS,Integrated dataset contains no duplicate EventIDs
+PASS,peak_flood_level: controlled quality/threshold fields removed
+PASS,peak_discharge: controlled quality/threshold fields removed
+PASS,flood_volume: controlled quality/threshold fields removed
+PASS,Classification dataset excludes post-event outcome variables

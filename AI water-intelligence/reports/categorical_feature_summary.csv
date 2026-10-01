@@ -1,0 +1,20 @@
+column,unique_values,missing_count,missing_percent
+EventID,4548,0,0.0
+Start Date,2791,0,0.0
+End Date,2985,0,0.0
+Peak FL Date,2736,0,0.0
+Peak Discharge Date,2452,555,12.203166226912929
+Flood Type,2,0,0.0
+GaugeID,155,0,0.0
+KoppenGeiger Climate Type,4,0,0.0
+Land cover,4,0,0.0
+Soil type,8,0,0.0
+lithology type,6,0,0.0
+Station,153,0,0.0
+River Name/ Tributory/ SubTributory,105,0,0.0
+Basin,22,5,0.10993843447669306
+State,15,0,0.0
+Start_date,104,0,0.0
+End_date,18,0,0.0
+Privacy,1,0,0.0
+Reliability,2,0,0.0
